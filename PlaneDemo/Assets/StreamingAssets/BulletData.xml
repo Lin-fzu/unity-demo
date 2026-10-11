@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BulletData>
+	<bulletInfoList>
+		<BulletInfo  id="1" type="1" forwardSpeed="50" rightSpeed="0" roundSpeed="30" resName="Bullet/1" deadEffRes="DeadEff/1" lifeTime="8"/>
+		<BulletInfo id="2" type="1" forwardSpeed="34" rightSpeed="0" roundSpeed="20" resName="Bullet/2" deadEffRes="DeadEff/2" lifeTime="9"/>
+		<BulletInfo id="3" type="1" forwardSpeed="46" rightSpeed="0" roundSpeed="14" resName="Bullet/3" deadEffRes="DeadEff/3" lifeTime="5"/>
+		<BulletInfo id="4" type="1" forwardSpeed="56" rightSpeed="0" roundSpeed="25" resName="Bullet/4" deadEffRes="DeadEff/4" lifeTime="6"/>
+		<BulletInfo id="5" type="1" forwardSpeed="65" rightSpeed="0" roundSpeed="14" resName="Bullet/5" deadEffRes="DeadEff/5" lifeTime="7"/>
+		<BulletInfo id="6" type="2" forwardSpeed="60" rightSpeed="80" roundSpeed="4" resName="Bullet/1" deadEffRes="DeadEff/1" lifeTime="8"/>
+		<BulletInfo id="7" type="2" forwardSpeed="34" rightSpeed="123" roundSpeed="6" resName="Bullet/2" deadEffRes="DeadEff/2" lifeTime="9"/>
+		<BulletInfo id="8" type="2" forwardSpeed="46" rightSpeed="95" roundSpeed="2" resName="Bullet/3" deadEffRes="DeadEff/3" lifeTime="5"/>
+		<BulletInfo id="9" type="2" forwardSpeed="56" rightSpeed="69" roundSpeed="5" resName="Bullet/4" deadEffRes="DeadEff/4" lifeTime="6"/>
+		<BulletInfo id="10" type="2" forwardSpeed="65" rightSpeed="130" roundSpeed="7" resName="Bullet/5" deadEffRes="DeadEff/5" lifeTime="7"/>
+		<BulletInfo id="11" type="3" forwardSpeed="60" rightSpeed="40" roundSpeed="23" resName="Bullet/1" deadEffRes="DeadEff/1" lifeTime="8"/>
+		<BulletInfo id="12" type="3" forwardSpeed="34" rightSpeed="34" roundSpeed="34" resName="Bullet/2" deadEffRes="DeadEff/2" lifeTime="9"/>
+		<BulletInfo id="13" type="3" forwardSpeed="46" rightSpeed="54" roundSpeed="46" resName="Bullet/3" deadEffRes="DeadEff/3" lifeTime="5"/>
+		<BulletInfo id="14" type="3" forwardSpeed="56" rightSpeed="45" roundSpeed="13" resName="Bullet/4" deadEffRes="DeadEff/4" lifeTime="6"/>
+		<BulletInfo id="15" type="3" forwardSpeed="65" rightSpeed="34" roundSpeed="29" resName="Bullet/5" deadEffRes="DeadEff/5" lifeTime="7"/>
+		<BulletInfo id="16" type="4" forwardSpeed="60" rightSpeed="40" roundSpeed="35" resName="Bullet/1" deadEffRes="DeadEff/1" lifeTime="8"/>
+		<BulletInfo id="17" type="4" forwardSpeed="34" rightSpeed="34" roundSpeed="23" resName="Bullet/2" deadEffRes="DeadEff/2" lifeTime="9"/>
+		<BulletInfo id="18" type="4" forwardSpeed="46" rightSpeed="54" roundSpeed="38" resName="Bullet/3" deadEffRes="DeadEff/3" lifeTime="5"/>
+		<BulletInfo id="19" type="4" forwardSpeed="56" rightSpeed="45" roundSpeed="46" resName="Bullet/4" deadEffRes="DeadEff/4" lifeTime="6"/>
+		<BulletInfo id="20" type="4" forwardSpeed="65" rightSpeed="34" roundSpeed="16" resName="Bullet/5" deadEffRes="DeadEff/5" lifeTime="7"/>
+		<BulletInfo id="21" type="5" forwardSpeed="58" rightSpeed="40" roundSpeed="8" resName="Bullet/1" deadEffRes="DeadEff/1" lifeTime="8"/>
+		<BulletInfo id="22" type="5" forwardSpeed="45" rightSpeed="34" roundSpeed="8" resName="Bullet/2" deadEffRes="DeadEff/2" lifeTime="9"/>
+		<BulletInfo id="23" type="5" forwardSpeed="52" rightSpeed="54" roundSpeed="5" resName="Bullet/3" deadEffRes="DeadEff/3" lifeTime="5"/>
+		<BulletInfo id="24" type="5" forwardSpeed="39" rightSpeed="45" roundSpeed="3" resName="Bullet/4" deadEffRes="DeadEff/4" lifeTime="6"/>
+		<BulletInfo id="25" type="5" forwardSpeed="55" rightSpeed="34" roundSpeed="5" resName="Bullet/5" deadEffRes="DeadEff/5" lifeTime="7"/>
+	</bulletInfoList>
+</BulletData>
